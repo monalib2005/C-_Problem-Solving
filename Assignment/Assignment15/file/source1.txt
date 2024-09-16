@@ -1,0 +1,3 @@
+C is mother of all languages.
+CPP is derived from C.
+OOP is started from CPP.

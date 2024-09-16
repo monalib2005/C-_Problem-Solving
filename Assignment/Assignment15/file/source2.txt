@@ -1,0 +1,4 @@
+C is designed by Dennis Ritchie.
+C and CPP are very important.
+CPP is designed by bjarne stroustrup.
+

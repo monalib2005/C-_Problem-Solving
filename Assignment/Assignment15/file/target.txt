@@ -1,0 +1,6 @@
+C is mother of all languages.
+C is designed by Dennis Ritchie.
+CPP is derived from C.
+C and CPP are very important.
+OOP is started from CPP.
+CPP is designed by bjarne stroustrup.

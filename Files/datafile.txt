@@ -1,0 +1,4 @@
+
+String = hello from cpp.
+String = We are learning cpp now.
+String = And it is now about to end

@@ -10,7 +10,7 @@ int main()
 {
 	int i;
 	int max = -1;
-	int min = 100000000;
+	int min = 100;
 	int choice;
 	int num[8];
 	cout<<"Enter the values of array  = ";

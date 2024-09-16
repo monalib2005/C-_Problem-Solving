@@ -3,7 +3,7 @@
 
 #include<iostream>
 using namespace std;
-char check(char ch);
+void check(char ch);
 int main()
 {
 	char chara;
@@ -12,7 +12,7 @@ int main()
 	check(chara);
 	return 0;
 }
-char check(char ch)
+void check(char ch)
 {
 	if(ch>='A' && ch<='Z')
 	{

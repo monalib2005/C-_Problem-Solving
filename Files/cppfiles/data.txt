@@ -1,0 +1,3 @@
+Hello World.
+Cpp is the fast language.
+Python is needed for Machine Learning

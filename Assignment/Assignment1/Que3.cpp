@@ -11,7 +11,7 @@ int main()
 	
 	sqr1 = num1*num1;
 	sqr2 = num2*num2;
-	cube1 = num1*num1*num2;
+	cube1 = num1*num1*num1;
 	cube2 = num2*num2*num2;
 	
 	cout<<"\n"<<sqr1<<","<<sqr2<<" are the squares of two numbers respectively.";
